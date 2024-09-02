@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="mycol text-white p-4">
+    <nav class="my text-white p-4">
       <div class="container mx-auto flex flex-wrap items-center justify-between">
         <!-- Logo or Website Title -->
         <div class="flex items-center">
