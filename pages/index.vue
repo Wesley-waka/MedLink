@@ -12,7 +12,7 @@
         </h2>
       </div>
       <div class="flex items-center justify-center">
-        <img src="~/assets/images/bg1.jpeg" alt="Background Image" class="w-full h-auto rounded-md" />
+        <img src="~/assets/images/bg1.png" alt="Background Image" class="w-full h-auto rounded-md" />
       </div>
     </div>
 
