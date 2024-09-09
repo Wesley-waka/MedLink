@@ -6,7 +6,8 @@
 
 
     <div class="flex flex-col">
-      <div class="flex lg:flex-row flex-col lg:max-w-[90rem] max-w-[90rem] mx-auto px-[20px]  lg:space-x-12 space-x-0">
+      <div
+        class="flex lg:flex-row flex-col mt-[100px] lg:max-w-[90rem] max-w-[90rem] mx-auto px-[20px]  lg:space-x-12 space-x-0">
         <img src="/about-2.jpg" class="lg:h-[450px] mt-[20px] h-[400px] w-[550px] rounded-md object-cover" style=""
           alt="">
         <div class="md:flex-col md:space-y-10 my-14">
