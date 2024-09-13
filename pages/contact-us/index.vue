@@ -24,7 +24,7 @@
                     </h3>
                 </div>
                 <p class="mt-2 text-gray-600 text-[20px] dark:text-neutral-400 text-center">
-                    ++1(917) 6094-597
+                    +1-917-609-4597
                 </p>
 
             </div>
@@ -52,11 +52,11 @@
                 <div class="flex flex-col space-y-2 items-center">
                     <img src="/whatsapp.svg" class="w-[80px] " alt="" srcset="">
                     <h3 class="text-[40px] font-bold text-gray-700 ">
-                        Text us
+                        Email us
                     </h3>
                 </div>
                 <p class="mt-2 text-gray-600 text-[20px] dark:text-neutral-400 text-center">
-                    +1(917) 6094-597
+                    info@zemy-group.com
                 </p>
 
             </div>
@@ -82,7 +82,7 @@
             <div class="text-center md:text-left mb-4 md:mb-0">
                 <h4 class="text-lg font-semibold mb-2">Get in Touch</h4>
                 <p class="text-sm mb-2">147 W 35th St, New York, NY 10001</p>
-                <p class="text-sm mb-2">+1 (917) 6094-597</p>
+                <p class="text-sm mb-2">+1-917-609-4597</p>
                 <p class="text-sm">
                     <a href="mailto:info@zemy-group.com" class="hover:text-gray-400">info@zemy-group.com</a>
                 </p>
